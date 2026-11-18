@@ -65,3 +65,7 @@ logs/
 
 # OS
 Desktop.ini
+
+.coverage
+.knowledgepilot/
+*.zip
