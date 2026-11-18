@@ -1,0 +1,3 @@
+﻿KnowledgePilot AI is a Retrieval-Augmented Generation application.
+It ingests PDF and TXT documents, creates chunks, retrieves relevant evidence using embeddings, and generates answers grounded in that evidence.
+KnowledgePilot supports local LLM generation through Ollama.
